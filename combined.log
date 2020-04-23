@@ -1,0 +1,269 @@
+{"level":"info"}
+{"message":"JSON notify UserWed Feb 26 2020 16:25:34 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"\"https://www.medicalnewstoday.com/articles/coronaviruses-how-long-can-they-survive-on-surfaces\"","key":"\"olw1\"","shortUrl":"\"http://localhost:4200/ehfi\""}}
+{"message":"JSON notify UserWed Feb 26 2020 16:25:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"OgUrl":"\"https://www.medicalnewstoday.com/articles/coronaviruses-how-long-can-they-survive-on-surfaces\"","shortUrl":"\"http://localhost:4200/ehfi\""}}
+{"message":"JSON notify UserWed Feb 26 2020 16:25:46 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"OgUrl":"\"https://www.medicalnewstoday.com/articles/coronaviruses-how-long-can-they-survive-on-surfaces\"","shortUrl":"\"http://localhost:4200/ehfi\""}}
+{"message":"Get Url with keyWed Feb 26 2020 16:29:02 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"i0n95","shortUrl":"http://localhost:4200/i0n95"}}
+{"message":"New URL AddedWed Feb 26 2020 16:38:21 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"coz9x","shortUrl":"http://localhost:4200/coz9x"}}
+{"message":"New URL AddedWed Feb 26 2020 16:38:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","shortUrl":"http://localhost:4200/coz9x"}}
+{"message":"Get Url with keyWed Feb 26 2020 16:38:36 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/coz9x"}
+{"message":"Url DeletedWed Feb 26 2020 16:38:39 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/i0n95"}
+{"message":"Url DeletedWed Feb 26 2020 16:38:43 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"m76zj","shortUrl":"http://localhost:4200/m76zj"}}
+{"message":"New URL AddedThu Feb 27 2020 00:13:56 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"u3d3b","shortUrl":"http://localhost:4200/u3d3b"}}
+{"message":"New URL AddedThu Feb 27 2020 00:24:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"cejtm","shortUrl":"http://localhost:4200/cejtm"}}
+{"message":"New URL AddedThu Feb 27 2020 00:24:53 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"b5ejd","shortUrl":"http://localhost:4200/b5ejd"}}
+{"message":"New URL AddedThu Feb 27 2020 00:27:51 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"1vy2g","shortUrl":"http://localhost:4200/1vy2g"}}
+{"message":"New URL AddedThu Feb 27 2020 00:27:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"6yazd","shortUrl":"http://localhost:4200/6yazd"}}
+{"message":"New URL AddedThu Feb 27 2020 00:27:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"o0ec3","shortUrl":"http://localhost:4200/o0ec3"}}
+{"message":"New URL AddedThu Feb 27 2020 00:28:36 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"x6ozp","shortUrl":"http://localhost:4200/x6ozp"}}
+{"message":"New URL AddedThu Feb 27 2020 00:28:37 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"t21az","shortUrl":"http://localhost:4200/t21az"}}
+{"message":"New URL AddedThu Feb 27 2020 00:40:59 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"lwx6y","shortUrl":"http://localhost:4200/lwx6y"}}
+{"message":"New URL AddedThu Feb 27 2020 00:43:58 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"sq1ly","shortUrl":"http://localhost:4200/sq1ly"}}
+{"message":"New URL AddedThu Feb 27 2020 00:45:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"4xglt","shortUrl":"http://localhost:4200/4xglt"}}
+{"message":"New URL AddedThu Feb 27 2020 00:46:18 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"rl3ua","shortUrl":"http://localhost:4200/rl3ua"}}
+{"message":"New URL AddedThu Feb 27 2020 00:47:24 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"52k95","shortUrl":"http://localhost:4200/52k95"}}
+{"message":"New URL AddedThu Feb 27 2020 00:48:23 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"2iz9v","shortUrl":"http://localhost:4200/2iz9v"}}
+{"message":"New URL AddedThu Feb 27 2020 00:48:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"hf2j2","shortUrl":"http://localhost:4200/hf2j2"}}
+{"message":"New URL AddedThu Feb 27 2020 00:48:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/hf2j2"}
+{"message":"Url DeletedThu Feb 27 2020 00:48:29 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/2iz9v"}
+{"message":"Url DeletedThu Feb 27 2020 00:48:30 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/52k95"}
+{"message":"Url DeletedThu Feb 27 2020 00:48:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"zwoo2","shortUrl":"http://localhost:4200/zwoo2"}}
+{"message":"New URL AddedThu Feb 27 2020 00:49:23 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"0gkr4","shortUrl":"http://localhost:4200/0gkr4"}}
+{"message":"New URL AddedThu Feb 27 2020 00:49:32 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"thl06","shortUrl":"http://localhost:4200/thl06"}}
+{"message":"New URL AddedThu Feb 27 2020 00:49:33 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"2omt7","shortUrl":"http://localhost:4200/2omt7"}}
+{"message":"New URL AddedThu Feb 27 2020 00:49:38 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"ativ3","shortUrl":"http://localhost:4200/ativ3"}}
+{"message":"New URL AddedThu Feb 27 2020 00:50:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"ie9xn","shortUrl":"http://localhost:4200/ie9xn"}}
+{"message":"New URL AddedThu Feb 27 2020 00:50:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"rmfwn","shortUrl":"http://localhost:4200/rmfwn"}}
+{"message":"New URL AddedThu Feb 27 2020 00:50:43 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"h6pzt","shortUrl":"http://localhost:4200/h6pzt"}}
+{"message":"New URL AddedThu Feb 27 2020 00:50:44 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/rmfwn"}
+{"message":"Url DeletedThu Feb 27 2020 00:50:45 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","shortUrl":"http://localhost:4200/h6pzt"}}
+{"message":"Get Url with keyThu Feb 27 2020 00:50:47 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"xwgj7","shortUrl":"http://localhost:4200/xwgj7"}}
+{"message":"New URL AddedThu Feb 27 2020 10:51:31 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"pxsnr","shortUrl":"http://localhost:4200/pxsnr"}}
+{"message":"New URL AddedThu Feb 27 2020 10:51:34 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","key":"kpvkn","shortUrl":"http://localhost:4200/kpvkn"}}
+{"message":"New URL AddedThu Feb 27 2020 10:51:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"OgUrl":"https://www.theatlantic.com/health/archive/2020/02/covid-vaccine/607000/","shortUrl":"http://localhost:4200/kpvkn"}}
+{"message":"Get Url with keyThu Feb 27 2020 10:51:44 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/xwgj7"}
+{"message":"Url DeletedThu Feb 27 2020 10:52:24 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/pxsnr"}
+{"message":"Url DeletedThu Feb 27 2020 10:52:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":"http://localhost:4200/kpvkn"}
+{"message":"Url DeletedThu Feb 27 2020 10:52:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:15:01 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:16:53 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:20:59 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:31:09 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:39:03 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info"}
+{"message":"Url DeletedTue Mar 03 2020 14:53:47 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"url":"\"https://www.medicalnewstoday.com/articles/coronaviruses-how-long-can-they-survive-on-surfaces\""}}
+{"message":"New URL AddedTue Mar 03 2020 14:54:14 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"shortUrl":"D4GL-bmd"}}
+{"message":"Get Url with keyTue Mar 03 2020 14:55:08 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","message":{"url":"\"https://www.medicalnewstoday.com/articles/coronaviruses-hoddw-long-can-they-survive-on-surfaces\""}}
+{"message":"New URL AddedTue Mar 03 2020 14:55:23 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"shortUrl":"4Grm0dje"}}
+{"message":"Get Url with keyTue Mar 03 2020 14:55:26 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"info","data":{"shortUrl":"4Grm0dje"}}
+{"message":"Get Url with keyTue Mar 03 2020 15:26:10 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedTue Mar 03 2020 22:54:11 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:06:56 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:22:12 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:27:47 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:33:24 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:40:37 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:40:56 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:42:37 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:44:32 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:44:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:44:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:46:04 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:46:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:47:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:49:38 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:49:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:49:41 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:50:10 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:50:14 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:50:15 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:51:43 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 11:52:45 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:04:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:07:48 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:07:53 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:07:57 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:08:38 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:08:39 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:08:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:09:59 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:10:00 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:10:01 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:06 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:47 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:48 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:11:49 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:12:06 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:12:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:12:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:12:53 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:13:39 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:15:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:15:17 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:16:00 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:16:01 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:17:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:17:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:18:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:18:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:18:28 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:18:29 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:23:36 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:23:37 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:24:21 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:24:22 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:24:57 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:24:58 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:25:19 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:25:19 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:26:05 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:32:02 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:35:09 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:38:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:40:09 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:40:19 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:40:52 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:47:07 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:47:13 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:47:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:47:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:49:18 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:49:49 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:50:54 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:51:11 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:51:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:51:57 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:52:12 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:52:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:53:23 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:53:51 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:53:59 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:54:32 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:54:51 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:55:06 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:55:12 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 12:55:58 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 12:56:01 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:40:58 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:41:00 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:41:02 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:41:04 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:41:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:43:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:43:17 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:43:49 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:44:33 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:44:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:44:36 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:44:38 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:45:02 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:46:33 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:46:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:46:37 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:47:34 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:49:12 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:49:14 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:51:31 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:52:47 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 13:56:32 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 13:56:43 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:06:54 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:12:34 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:16:48 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:17:13 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:17:46 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:21:19 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:21:42 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:24:27 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:26:17 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 14:46:15 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:46:18 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 14:51:58 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"error","error":{}}
+{"message":"errorWed Mar 04 2020 15:14:56 GMT-0800 (Pacific Standard Time)","level":"error"}
+{"message":"New URL AddedWed Mar 04 2020 15:15:16 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:15:20 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:15:22 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:15:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:19:36 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:23:01 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"error","error":{}}
+{"message":"errorWed Mar 04 2020 15:25:18 GMT-0800 (Pacific Standard Time)","level":"error"}
+{"message":"New URL AddedWed Mar 04 2020 15:25:26 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:28:54 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:28:56 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"error","error":{}}
+{"message":"errorWed Mar 04 2020 15:28:57 GMT-0800 (Pacific Standard Time)","level":"error"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:29:09 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:29:11 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:29:17 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"level":"error","error":{}}
+{"message":"errorWed Mar 04 2020 15:29:18 GMT-0800 (Pacific Standard Time)","level":"error"}
+{"message":"New URL AddedWed Mar 04 2020 15:33:19 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:33:57 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:34:05 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:35:20 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:35:22 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:35:23 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:35:25 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:41:35 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"URL Already ExistsWed Mar 04 2020 15:41:40 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Mar 04 2020 15:41:50 GMT-0800 (Pacific Standard Time)","level":"info"}
+{"message":"New URL AddedWed Apr 22 2020 18:17:26 GMT-0700 (Pacific Daylight Time)","level":"info"}
+{"message":"URL Already ExistsWed Apr 22 2020 18:17:41 GMT-0700 (Pacific Daylight Time)","level":"info"}
+{"message":"New URL AddedWed Apr 22 2020 18:17:43 GMT-0700 (Pacific Daylight Time)","level":"info"}

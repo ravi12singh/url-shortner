@@ -1,0 +1,173 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+html,
+
+.white-text {
+    color: white;
+}/* You can add global styles to this file, and also import other style files */
+
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+html,
+
+.white-text {
+    color: white;
+}
+
+.center-this {
+    text-align: center
+}
+
+.col-12{
+    padding-right:0;
+    padding-left:0;
+}
+
+.main-input{
+    padding: 0px 20px;
+    border-width: 0;
+    font-size: 19px;
+    background: #f2f2f2;
+    height: 40px;
+    color: #151720;
+    transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+}
+
+.main-button{
+    padding: 5px;
+    font-size: 18px;
+    color: #fff;
+    border: 1px solid #fff;
+    height: 40px;
+    background-color: transparent;
+}
+.main-button:hover{
+    border: 2px solid #628596;
+    color: #fff;
+}
+.main-button:focus{
+    box-shadow: none;
+  }
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+    color: #fff;
+}
+.delete-btn{
+    color: #465B70;
+    cursor: pointer;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: #333;
+    text-shadow: none; /* Prevent inheritance from `body` */
+    background-color: #fff;
+    border: .05rem solid #fff;
+}
+
+.input-height{
+    height: 40px;
+}
+/*
+ * Base structure
+ */
+
+html,
+body {
+    font-weight: 300;
+    color: #f8f8f8;
+    background-image: -webkit-radial-gradient(10% 0, farthest-side ellipse, #202c3c, #465b6f);
+    background-size: cover;
+    background-attachment: fixed, fixed;
+}
+
+body {
+    display: -ms-flexbox;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    color: #fff;
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+    box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+}
+
+.cover-container {
+    max-width: 100%;
+}
+
+
+/*
+ * Header
+ */
+.masthead {
+    margin-bottom: 2rem;
+}
+
+.masthead-brand {
+    margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+    padding: .25rem 0;
+    font-weight: 700;
+    color: rgba(255, 255, 255, .5);
+    background-color: transparent;
+    border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:focus {
+    border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+    margin-left: 1rem;
+}
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+    .masthead-brand {
+        float: left;
+    }
+}
+
+
+/*
+ * Cover
+ */
+.cover {
+    padding: 0 1.5rem;
+}
+.cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700;
+}
+
+
+/*
+ * Footer
+ */
+.mastfoot {
+    color: rgba(255, 255, 255, .5);
+}
+.row{
+    margin-top: 1em;
+}
+.click-me{
+    color:#607D8B; cursor: pointer;
+}
